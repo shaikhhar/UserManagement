@@ -6,6 +6,7 @@
 <meta charset="UTF-8">
 <title>Home</title>
 <link rel="stylesheet" href="css/app.css">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
 <a href="./Index.jsp" style="position:absolute; top:20px; left:20px">Home</a>
