@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>D</title>
+<link rel="stylesheet" href="css/app.css">
 </head>
 <body>
 <p style="font-weight: bold">Update <span style="font-style: italic"> ${username} </span> </p>

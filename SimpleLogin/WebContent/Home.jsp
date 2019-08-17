@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Home</title>
+<link rel="stylesheet" href="css/app.css">
 </head>
 <body>
 <a href="./Index.jsp" style="position:absolute; top:20px; left:20px">Home</a>

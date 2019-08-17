@@ -5,6 +5,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Sign up</title>
+<link rel="stylesheet" href="css/app.css">
 </head>
 <body>
 <h3>Registration</h3>
